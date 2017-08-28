@@ -1,0 +1,15 @@
+{
+  "name": "module-2-assignment",
+  "version": "1.0.0",
+  "description": "iLoveMyCity application using EJS Template for Module2Assignment",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "keshav.kishlay",
+  "license": "MIT",
+  "dependencies": {
+    "ejs": "^2.3.4",
+    "express": "^4.13.3"
+  }
+}
