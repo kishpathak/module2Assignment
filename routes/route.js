@@ -10,25 +10,25 @@ exports.city=function(req,res){
     var title,heading;
     var imageCount=4;
 
-    if(cityName==='berlin'){
-       title="Berlin";
-       heading="Berlin: Where love is in the air";
+    if(cityName==='bangalore'){
+       title="Bangalore";
+       heading="Bangalore: Where IT is in the air";
     }
-    else if(cityName==='paris'){
-       title="Paris";
-       heading="Paris: Good talkers are only found in Paris";
+    else if(cityName==='delhi'){
+       title="Delhi";
+       heading="Delhi: National capital of India";
     }
-    else if(cityName==='madrid'){
-       title="Madrid";
-       heading="Madrid: Buzz, Beautiful architecture and Football";
+    else if(cityName==='mumbai'){
+       title="Mumbai";
+       heading="Mumbai: Named as Alpha world city";
     }
-    else if(cityName==='london'){
-       title="London";
-       heading="London: Sparkling, Still, Food, Gorgeous";
+    else if(cityName==='bihar'){
+       title="Bihar";
+       heading="Bihar: The place where Intelligence flouting in the Air";
     }
-    else if(cityName==='newyork'){
-       title="New York";
-       heading="New York: Come to New York to become someone new";
+    else if(cityName==='kolkata'){
+       title="Kolkata";
+       heading="Kolkata: Best sweet";
        imageCount=6;
     }
 
